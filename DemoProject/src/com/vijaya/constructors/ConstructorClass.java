@@ -7,7 +7,7 @@ public class ConstructorClass extends ConstructorParent {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ConstructorClass obj = new ConstructorClass(" Shwetha teena");
+		ConstructorClass obj = new ConstructorClass(" Shwetha teena rani");
 	}
 
 }
